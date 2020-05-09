@@ -1,5 +1,5 @@
 /*
-This file has nothing to do with the app. It's part of the tutorial that teaches some Redux features.
+This file has nothing to do with the app. It's part of the tutorial that teaches some basic Redux features.
 */
 
 import React from 'react';
